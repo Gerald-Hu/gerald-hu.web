@@ -12,7 +12,7 @@ const Loading = () => {
     <>
       {loading &&
         <>
-          <div className="fixed w-screen h-screen inset-0 z-50 bg-[#f6f2f2]/50 dark:bg-[#0b0f11]/50 backdrop-blur-sm"/>
+          <div className="fixed w-screen h-screen inset-0 z-40 bg-[#f6f2f2]/50 dark:bg-[#0b0f11]/50 backdrop-blur-sm"/>
 
           <div className="fixed top-1/2 left-1/2 z-50 -translate-x-1/2 -translate-y-1/2 px-8">
             <DotLottieReact
@@ -21,7 +21,6 @@ const Loading = () => {
               autoplay
               speed={2}
               segment={[60, 160]}
-              
             />
           </div>
         </>
