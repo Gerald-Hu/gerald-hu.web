@@ -1,0 +1,284 @@
+const CompanyLogo = () => {
+  return (
+    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210.49 132">
+      <defs>
+        <clipPath id="clippath">
+          <rect width="132" height="132" fill="none" strokeWidth="0" />
+        </clipPath>
+        <clipPath id="clippath-1">
+          <path d="M33.49,8.44l-25.05,25.05c5.91-10.48,14.56-19.14,25.05-25.05ZM46.08,3.03L3.03,46.08c-.91,3.03-1.69,6.12-2.18,9.29L55.44.85c-3.24.49-6.33,1.19-9.36,2.18ZM65.78,0c-.84,0-1.61,0-2.46.07L.07,63.32c-.07.84-.07,1.61-.07,2.46,0,1.55.07,3.1.14,4.57L70.35.14c-1.55-.07-3.02-.14-4.57-.14ZM76.76.92L.92,76.76c.35,1.97.78,3.94,1.27,5.84L82.6,2.18c-1.9-.49-3.87-.91-5.84-1.27ZM88.02,3.87L3.87,88.02c.64,1.76,1.34,3.45,2.04,5.07L93.08,5.91c-1.61-.7-3.3-1.41-5.06-2.04ZM97.86,8.38L8.38,97.86c.84,1.55,1.76,3.03,2.74,4.43L102.3,11.05c-1.48-.98-2.95-1.83-4.43-2.67ZM106.38,14.07L14.07,106.38c1.06,1.33,2.11,2.6,3.31,3.87L110.24,17.31c-1.19-1.13-2.53-2.18-3.87-3.23ZM113.83,20.9L20.9,113.83c1.27,1.13,2.54,2.26,3.8,3.31L117.14,24.7c-1.05-1.27-2.11-2.6-3.31-3.8ZM120.17,28.85L28.85,120.17c1.41.98,2.88,1.9,4.36,2.74L122.91,33.21c-.84-1.47-1.76-2.95-2.74-4.36ZM125.38,37.92L37.92,125.38c1.62.77,3.31,1.47,4.99,2.11L127.48,42.92c-.64-1.69-1.34-3.38-2.11-4.99ZM129.17,48.33l-80.84,80.84c1.9.49,3.87.98,5.84,1.34l76.33-76.33c-.35-1.97-.78-3.94-1.34-5.84ZM131.35,60.51l-70.85,70.85c1.76.14,3.52.21,5.28.21h1.69l64.09-64.09v-1.69c0-1.76-.07-3.52-.21-5.28ZM84.35,128.89l44.47-44.46c.84-2.95,1.55-5.98,1.97-9.15l-55.58,55.58c3.17-.42,6.19-1.13,9.15-1.97ZM123.96,96.39l-27.58,27.58c11.75-6.19,21.39-15.83,27.58-27.58Z" fill="none" strokeWidth="0" />
+        </clipPath>
+        <linearGradient id="linear-gradient" x1="217.36" y1="204.01" x2="218.79" y2="15.61" gradientTransform="translate(-87.65 143.04) scale(.7 -.7)" gradientUnits="userSpaceOnUse">
+          <stop offset="0" stopColor="#000c1d" />
+          <stop offset="0" stopColor="#000d1e" />
+          <stop offset="0" stopColor="#000d1f" />
+          <stop offset=".01" stopColor="#000e20" />
+          <stop offset=".02" stopColor="#000e22" />
+          <stop offset=".02" stopColor="#000f23" />
+          <stop offset=".02" stopColor="#000f24" />
+          <stop offset=".03" stopColor="#001025" />
+          <stop offset=".03" stopColor="#001026" />
+          <stop offset=".04" stopColor="#001128" />
+          <stop offset=".04" stopColor="#001129" />
+          <stop offset=".04" stopColor="#00122a" />
+          <stop offset=".05" stopColor="#00122b" />
+          <stop offset=".05" stopColor="#00132c" />
+          <stop offset=".05" stopColor="#00132e" />
+          <stop offset=".06" stopColor="#00142f" />
+          <stop offset=".06" stopColor="#001430" />
+          <stop offset=".07" stopColor="#001531" />
+          <stop offset=".07" stopColor="#001632" />
+          <stop offset=".07" stopColor="#001633" />
+          <stop offset=".08" stopColor="#001735" />
+          <stop offset=".08" stopColor="#001736" />
+          <stop offset=".09" stopColor="#001837" />
+          <stop offset=".09" stopColor="#001838" />
+          <stop offset=".09" stopColor="#001939" />
+          <stop offset=".1" stopColor="#00193b" />
+          <stop offset=".1" stopColor="#001a3c" />
+          <stop offset=".11" stopColor="#001a3d" />
+          <stop offset=".11" stopColor="#001b3e" />
+          <stop offset=".11" stopColor="#001b3f" />
+          <stop offset=".12" stopColor="#001c41" />
+          <stop offset=".12" stopColor="#001c42" />
+          <stop offset=".12" stopColor="#001d43" />
+          <stop offset=".13" stopColor="#001d44" />
+          <stop offset=".13" stopColor="#001e45" />
+          <stop offset=".14" stopColor="#001e47" />
+          <stop offset=".14" stopColor="#001f48" />
+          <stop offset=".14" stopColor="#001f49" />
+          <stop offset=".15" stopColor="#00204a" />
+          <stop offset=".15" stopColor="#00204b" />
+          <stop offset=".16" stopColor="#00214d" />
+          <stop offset=".16" stopColor="#00214e" />
+          <stop offset=".16" stopColor="#00224f" />
+          <stop offset=".17" stopColor="#002250" />
+          <stop offset=".17" stopColor="#002351" />
+          <stop offset=".18" stopColor="#002352" />
+          <stop offset=".18" stopColor="#002454" />
+          <stop offset=".18" stopColor="#002455" />
+          <stop offset=".19" stopColor="#002556" />
+          <stop offset=".19" stopColor="#002557" />
+          <stop offset=".2" stopColor="#002658" />
+          <stop offset=".2" stopColor="#00265a" />
+          <stop offset=".2" stopColor="#00275b" />
+          <stop offset=".21" stopColor="#00275c" />
+          <stop offset=".21" stopColor="#00285d" />
+          <stop offset=".21" stopColor="#00285e" />
+          <stop offset=".22" stopColor="#002960" />
+          <stop offset=".22" stopColor="#002961" />
+          <stop offset=".23" stopColor="#002a62" />
+          <stop offset=".23" stopColor="#002a63" />
+          <stop offset=".23" stopColor="#002b64" />
+          <stop offset=".24" stopColor="#002b66" />
+          <stop offset=".24" stopColor="#002c67" />
+          <stop offset=".25" stopColor="#002c68" />
+          <stop offset=".25" stopColor="#002d69" />
+          <stop offset=".25" stopColor="#002d6a" />
+          <stop offset=".26" stopColor="#002e6c" />
+          <stop offset=".26" stopColor="#002f6d" />
+          <stop offset=".27" stopColor="#002f6e" />
+          <stop offset=".27" stopColor="#00306f" />
+          <stop offset=".27" stopColor="#003070" />
+          <stop offset=".28" stopColor="#003172" />
+          <stop offset=".28" stopColor="#003173" />
+          <stop offset=".29" stopColor="#003274" />
+          <stop offset=".29" stopColor="#003275" />
+          <stop offset=".29" stopColor="#003376" />
+          <stop offset=".3" stopColor="#037" />
+          <stop offset=".3" stopColor="#003479" />
+          <stop offset=".3" stopColor="#00347a" />
+          <stop offset=".31" stopColor="#00357b" />
+          <stop offset=".31" stopColor="#00357c" />
+          <stop offset=".32" stopColor="#00367d" />
+          <stop offset=".32" stopColor="#00367f" />
+          <stop offset=".32" stopColor="#003780" />
+          <stop offset=".33" stopColor="#003781" />
+          <stop offset=".33" stopColor="#003882" />
+          <stop offset=".34" stopColor="#003883" />
+          <stop offset=".34" stopColor="#003985" />
+          <stop offset=".34" stopColor="#003986" />
+          <stop offset=".35" stopColor="#003a87" />
+          <stop offset=".35" stopColor="#003a88" />
+          <stop offset=".36" stopColor="#003b89" />
+          <stop offset=".36" stopColor="#003b8b" />
+          <stop offset=".36" stopColor="#003c8c" />
+          <stop offset=".37" stopColor="#003c8d" />
+          <stop offset=".37" stopColor="#003d8e" />
+          <stop offset=".38" stopColor="#003d8f" />
+          <stop offset=".38" stopColor="#003e91" />
+          <stop offset=".38" stopColor="#003e92" />
+          <stop offset=".39" stopColor="#003f93" />
+          <stop offset=".39" stopColor="#003f94" />
+          <stop offset=".39" stopColor="#004095" />
+          <stop offset=".4" stopColor="#004097" />
+          <stop offset=".4" stopColor="#004198" />
+          <stop offset=".41" stopColor="#004199" />
+          <stop offset=".41" stopColor="#00429a" />
+          <stop offset=".41" stopColor="#00429b" />
+          <stop offset=".42" stopColor="#00439c" />
+          <stop offset=".42" stopColor="#00439e" />
+          <stop offset=".43" stopColor="#00449f" />
+          <stop offset=".43" stopColor="#0044a0" />
+          <stop offset=".43" stopColor="#0045a1" />
+          <stop offset=".44" stopColor="#0045a2" />
+          <stop offset=".44" stopColor="#0046a4" />
+          <stop offset=".45" stopColor="#0047a5" />
+          <stop offset=".45" stopColor="#0047a6" />
+          <stop offset=".45" stopColor="#0048a7" />
+          <stop offset=".46" stopColor="#0048a8" />
+          <stop offset=".46" stopColor="#0049aa" />
+          <stop offset=".46" stopColor="#0049ab" />
+          <stop offset=".47" stopColor="#004aac" />
+          <stop offset=".47" stopColor="#004aad" />
+          <stop offset=".48" stopColor="#004bae" />
+          <stop offset=".48" stopColor="#014cae" />
+          <stop offset=".48" stopColor="#014caf" />
+          <stop offset=".49" stopColor="#024daf" />
+          <stop offset=".49" stopColor="#024eb0" />
+          <stop offset=".5" stopColor="#024fb0" />
+          <stop offset=".5" stopColor="#034fb1" />
+          <stop offset=".5" stopColor="#0350b2" />
+          <stop offset=".51" stopColor="#0451b2" />
+          <stop offset=".51" stopColor="#0452b3" />
+          <stop offset=".52" stopColor="#0452b3" />
+          <stop offset=".52" stopColor="#0553b4" />
+          <stop offset=".52" stopColor="#0554b4" />
+          <stop offset=".53" stopColor="#0655b5" />
+          <stop offset=".53" stopColor="#0655b6" />
+          <stop offset=".54" stopColor="#0656b6" />
+          <stop offset=".54" stopColor="#0757b7" />
+          <stop offset=".54" stopColor="#0758b7" />
+          <stop offset=".55" stopColor="#0858b8" />
+          <stop offset=".55" stopColor="#0859b8" />
+          <stop offset=".55" stopColor="#085ab9" />
+          <stop offset=".56" stopColor="#095bba" />
+          <stop offset=".56" stopColor="#095cba" />
+          <stop offset=".57" stopColor="#095cbb" />
+          <stop offset=".57" stopColor="#0a5dbb" />
+          <stop offset=".57" stopColor="#0a5ebc" />
+          <stop offset=".58" stopColor="#0b5fbd" />
+          <stop offset=".58" stopColor="#0b5fbd" />
+          <stop offset=".59" stopColor="#0b60be" />
+          <stop offset=".59" stopColor="#0c61be" />
+          <stop offset=".59" stopColor="#0c62bf" />
+          <stop offset=".6" stopColor="#0d62bf" />
+          <stop offset=".6" stopColor="#0d63c0" />
+          <stop offset=".61" stopColor="#0d64c1" />
+          <stop offset=".61" stopColor="#0e65c1" />
+          <stop offset=".61" stopColor="#0e65c2" />
+          <stop offset=".62" stopColor="#0f66c2" />
+          <stop offset=".62" stopColor="#0f67c3" />
+          <stop offset=".62" stopColor="#0f68c3" />
+          <stop offset=".63" stopColor="#1068c4" />
+          <stop offset=".63" stopColor="#1069c5" />
+          <stop offset=".64" stopColor="#116ac5" />
+          <stop offset=".64" stopColor="#116bc6" />
+          <stop offset=".64" stopColor="#116bc6" />
+          <stop offset=".65" stopColor="#126cc7" />
+          <stop offset=".65" stopColor="#126dc7" />
+          <stop offset=".66" stopColor="#136ec8" />
+          <stop offset=".66" stopColor="#136ec9" />
+          <stop offset=".66" stopColor="#136fc9" />
+          <stop offset=".67" stopColor="#1470ca" />
+          <stop offset=".67" stopColor="#1471ca" />
+          <stop offset=".68" stopColor="#1471cb" />
+          <stop offset=".68" stopColor="#1572cb" />
+          <stop offset=".68" stopColor="#1573cc" />
+          <stop offset=".69" stopColor="#1674cd" />
+          <stop offset=".69" stopColor="#1674cd" />
+          <stop offset=".7" stopColor="#1675ce" />
+          <stop offset=".7" stopColor="#1776ce" />
+          <stop offset=".7" stopColor="#1777cf" />
+          <stop offset=".71" stopColor="#1877cf" />
+          <stop offset=".71" stopColor="#1878d0" />
+          <stop offset=".71" stopColor="#1879d1" />
+          <stop offset=".72" stopColor="#197ad1" />
+          <stop offset=".72" stopColor="#197ad2" />
+          <stop offset=".73" stopColor="#1a7bd2" />
+          <stop offset=".73" stopColor="#1a7cd3" />
+          <stop offset=".73" stopColor="#1a7dd3" />
+          <stop offset=".74" stopColor="#1b7dd4" />
+          <stop offset=".74" stopColor="#1b7ed5" />
+          <stop offset=".75" stopColor="#1c7fd5" />
+          <stop offset=".75" stopColor="#1c80d6" />
+          <stop offset=".75" stopColor="#1c80d6" />
+          <stop offset=".76" stopColor="#1d81d7" />
+          <stop offset=".76" stopColor="#1d82d7" />
+          <stop offset=".77" stopColor="#1d83d8" />
+          <stop offset=".77" stopColor="#1e84d9" />
+          <stop offset=".77" stopColor="#1e84d9" />
+          <stop offset=".78" stopColor="#1f85da" />
+          <stop offset=".78" stopColor="#1f86da" />
+          <stop offset=".79" stopColor="#1f87db" />
+          <stop offset=".79" stopColor="#2087db" />
+          <stop offset=".79" stopColor="#2088dc" />
+          <stop offset=".8" stopColor="#2189dd" />
+          <stop offset=".8" stopColor="#218add" />
+          <stop offset=".8" stopColor="#218ade" />
+          <stop offset=".81" stopColor="#228bde" />
+          <stop offset=".81" stopColor="#228cdf" />
+          <stop offset=".82" stopColor="#238ddf" />
+          <stop offset=".82" stopColor="#238de0" />
+          <stop offset=".82" stopColor="#238ee1" />
+          <stop offset=".83" stopColor="#248fe1" />
+          <stop offset=".83" stopColor="#2490e2" />
+          <stop offset=".84" stopColor="#2590e2" />
+          <stop offset=".84" stopColor="#2591e3" />
+          <stop offset=".84" stopColor="#2592e4" />
+          <stop offset=".85" stopColor="#2693e4" />
+          <stop offset=".85" stopColor="#2693e5" />
+          <stop offset=".86" stopColor="#2694e5" />
+          <stop offset=".86" stopColor="#2795e6" />
+          <stop offset=".86" stopColor="#2796e6" />
+          <stop offset=".87" stopColor="#2896e7" />
+          <stop offset=".87" stopColor="#2897e8" />
+          <stop offset=".88" stopColor="#2898e8" />
+          <stop offset=".88" stopColor="#2999e9" />
+          <stop offset=".88" stopColor="#2999e9" />
+          <stop offset=".89" stopColor="#2a9aea" />
+          <stop offset=".89" stopColor="#2a9bea" />
+          <stop offset=".89" stopColor="#2a9ceb" />
+          <stop offset=".9" stopColor="#2b9cec" />
+          <stop offset=".9" stopColor="#2b9dec" />
+          <stop offset=".91" stopColor="#2c9eed" />
+          <stop offset=".91" stopColor="#2c9fed" />
+          <stop offset=".91" stopColor="#2c9fee" />
+          <stop offset=".92" stopColor="#2da0ee" />
+          <stop offset=".92" stopColor="#2da1ef" />
+          <stop offset=".93" stopColor="#2ea2f0" />
+          <stop offset=".93" stopColor="#2ea2f0" />
+          <stop offset=".93" stopColor="#2ea3f1" />
+          <stop offset=".94" stopColor="#2fa4f1" />
+          <stop offset=".94" stopColor="#2fa5f2" />
+          <stop offset=".95" stopColor="#30a6f2" />
+          <stop offset=".95" stopColor="#30a6f3" />
+          <stop offset=".95" stopColor="#30a7f4" />
+          <stop offset=".96" stopColor="#31a8f4" />
+          <stop offset=".96" stopColor="#31a9f5" />
+          <stop offset=".96" stopColor="#31a9f5" />
+          <stop offset=".97" stopColor="#32aaf6" />
+          <stop offset=".97" stopColor="#32abf6" />
+          <stop offset=".98" stopColor="#33acf7" />
+          <stop offset=".98" stopColor="#33acf8" />
+          <stop offset=".98" stopColor="#33adf8" />
+          <stop offset=".99" stopColor="#34aef9" />
+          <stop offset=".99" stopColor="#34aff9" />
+          <stop offset="1" stopColor="#35affa" />
+          <stop offset="1" stopColor="#35b0fa" />
+        </linearGradient>
+      </defs>
+      <g clipPath="url(#clippath)">
+        <g clipPath="url(#clippath-1)">
+          <path d="M0,0v131.56h131.56V0H0Z" fill="url(#linear-gradient)" strokeWidth="0" />
+        </g>
+      </g>
+      <path d="M72.31,101.45h-12l-7.58-7.58v-37.31h13.52v36.79h6.06v8.1Z" fill="#fff" strokeWidth="0" />
+      <path d="M111.99,93.34l-8.1,8.1h-9.06v-7.58h3.35v-16.81h-3.35v-8.1h9.06l8.1,8.1v16.29ZM89.16,93.86h3.52v7.58h-9.08l-8.1-8.1v-16.29l8.1-8.1h9.08v8.1h-3.52v16.81Z" fill="#fff" strokeWidth="0" />
+      <path d="M139.45,77.05h-5.98v-8.1h11.4l8.13,8.1v27.6l-8.13,8.17h-17.83l-4.06-4.08v-3h16.48v-28.69ZM137.33,93.86v3.58l-4.04,4h-7.38l-8.1-8.1v-16.29l8.1-8.1h5.42v24.92h6Z" fill="#fff" strokeWidth="0" />
+      <path d="M175.29,101.45v-32.5h13.65v32.5h-13.65ZM196.95,77.05h-5.81v-3.54l4.52-4.56h7.52l7.31,7.31v25.19h-13.54v-24.4Z" fill="#fff" strokeWidth="0" />
+    </svg>
+  );
+};
+
+export default CompanyLogo;
